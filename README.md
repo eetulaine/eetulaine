@@ -10,5 +10,5 @@ Feel free to connect!
 ### Tech skills
 
 <div>
-  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,bash,linux,git,vscode,cloudflare,docker,ps&perline=6" />
+  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,javascript,ts,tailwind,react,html,css,bash,linux,git,vscode,cloudflare,docker,ps&perline=5" />
 </div>
