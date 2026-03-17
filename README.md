@@ -1,9 +1,9 @@
 ![Eetu Laine Banner](https://github.com/eetulaine/eetulaine/blob/main/eetu_laine_banner_crop.gif)
 
 ## Hey, I'm Eetu 
-I'm a software developer/programmer finishing my studies at [Hive Helsinki](https://www.hive.fi/en/) (part of the worldwide [42 Network](https://www.42network.org/)).
+I'm a software developer and recent [Hive Helsinki](https://www.hive.fi/en/) & [42](https://www.42network.org/) graduate.
 
-Currently, our team is working on the final project of the 42 curriculum: [ft_transcendence](https://github.com/AnselmiVeikko/ft_transcendence).
+Currently, building something super interesting.. 👀
 
 Feel free to connect!  
   
