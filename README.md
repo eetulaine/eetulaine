@@ -3,7 +3,7 @@
 ## Hey, I'm Eetu 
 I'm a software developer and recent [Hive Helsinki](https://www.hive.fi/en/) & [42](https://www.42network.org/) graduate.
 
-Currently, building something super interesting.. 👀
+Currently, building something super interesting 👀
 
 Feel free to connect!  
   
@@ -12,5 +12,5 @@ Feel free to connect!
 ### Tech skills
 
 <div>
-  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,javascript,ts,tailwind,react,html,css,bash,linux,git,vscode,cloudflare,docker,ps&perline=5" />
+  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,javascript,ts,tailwind,react,html,css,bash,linux,git,vscode,cloudflare,docker,ps,supabase,deno,postgresql&perline=6" />
 </div>
